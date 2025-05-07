@@ -7,7 +7,7 @@
  peso = 89.5
  print(peso)
 
- #exemplos de números inteiros 
+ #exemplos de número inteiros 
  idade = 18
  print(idade)
 
@@ -15,4 +15,3 @@
  nome = ("maria")
  sobrenome = "silva"
  print(nome,sobrenome)
- 
